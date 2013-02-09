@@ -1,0 +1,16 @@
+obj\Debug\MyScanner.exe
+obj\Debug\MyScanner.pdb
+bin\Debug\MyScanner.exe
+bin\Debug\MyScanner.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\MyScanner.Scanner.resources
+obj\Debug\MyScanner.Properties.Resources.resources
+obj\Debug\MyScanner.csproj.GenerateResource.Cache
+bin\Release\MyScanner.exe
+bin\Release\MyScanner.pdb
+obj\Release\ResolveAssemblyReference.cache
+obj\Release\MyScanner.Scanner.resources
+obj\Release\MyScanner.Properties.Resources.resources
+obj\Release\MyScanner.csproj.GenerateResource.Cache
+obj\Release\MyScanner.exe
+obj\Release\MyScanner.pdb
